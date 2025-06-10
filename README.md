@@ -10,7 +10,7 @@ Aplicativo local para administrar suscripciones y gastos mensuales usando python
 
 - 🏦 **Gestión multicuenta**
 - 💳 **Registro de nuevas suscipcioness**
-- 📅 **Calcula automaticamente** la próxima fecha de pago
+- 📅 **Calcula automaticamente la próxima fecha de pago**
 - 📈 **Calculo total del mes**
 - 💾 **Base de datos usando JSON server**
 
