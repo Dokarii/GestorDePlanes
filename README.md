@@ -38,5 +38,5 @@ Aplicación de escritorio para administrar suscripciones y gastos mensuales en p
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/gestor-suscripciones.git
-cd gestor-suscripciones
+git clone https://github.com/Dokarii/GestorDePlanes.git
+cd gestor-de-planes
